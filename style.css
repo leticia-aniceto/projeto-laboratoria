@@ -1,0 +1,18 @@
+body {
+    background-color: aliceblue;
+    font-family: 'Arial';
+    color: rgba(82, 78, 78, 0.952);
+}
+
+header .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+header .titulo{
+
+}
+
+
+
